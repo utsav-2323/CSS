@@ -1,0 +1,150 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    width: 100%;
+    height: 600px;
+    /* border: 1px solid; */
+}
+.navbar{
+    width: 25%;
+    height: 590px;
+    /* border: 1px solid; */
+    margin-top: 40px;
+    margin-left: 470px;
+    background-color: rgb(128,24,80);
+}
+.u1{
+    width: 100%;
+    height: 40px;
+    /* border: 1px solid; */
+}
+.u1 h1{
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 15px;
+    padding-top: 5px;
+    margin-left: 17px;
+    color: rgb(244,186,0);
+}
+.u2{
+    width: 100%;
+    height: 60px;
+    /* border: 1px solid; */
+}
+.u2 p{
+    text-align: center;
+    padding: 2px;
+    color: #fff;
+}
+.u3{
+    width: 100%;
+    height: 80px;
+    /* border: 1px solid; */
+}
+.u3 h1{
+    text-align: center;
+    font-weight: 800;
+    font-size: 50px;
+    letter-spacing: 6px;
+    color: #fff;
+}
+.u3 h3{
+    text-align: center;
+    word-spacing: 5px;
+    font-weight: 300;
+    color: #fff;
+}
+.u4{
+    width: 100%;
+    height: 80px;
+    /* border: 1px solid; */
+}
+.date{
+    width: 50%;
+    height: 80px;
+    /* border: 1px solid; */
+    float: left;
+}
+.date h4{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 15px;
+    color: #fff;
+}
+.date p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 5px;
+    color: #fff;
+}
+.time{
+    width: 50%;
+    height: 80px;
+    /* border: 1px solid; */
+    float: right;
+}
+.time h4{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 15px;
+    color: #fff;
+}
+.time p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 5px;
+    color: #fff;
+}
+.u5{
+    width: 100%;
+    height: 80px;
+    /* border: 1px solid; */
+}
+.u5 h4{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 10px;
+    color: #fff;
+}
+.u5 p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    padding-bottom: 5px;
+    color: #fff;
+}
+.u6{
+    width: 100%;
+    height: 160px;
+    /* border: 1px solid; */
+}
+.u6 img{
+    width: 100%;
+    height: 100%;
+    padding-right: 30px;
+}
+.footer{
+    width: 100%;
+    height: 80px;
+    border: 1px solid rgb(217,183,0);
+    float: right;
+}
+.footer h4{
+    text-align: center;
+    font-size: 20px;
+    padding-top: 15px;
+    color: #fff;
+}
+.footer p{
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    padding-top: 5px;
+    color: #fff;
+}

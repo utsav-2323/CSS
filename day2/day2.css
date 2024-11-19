@@ -1,0 +1,161 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: rgba(55, 55, 53, 0.401);
+}
+body{
+    background-color: rgba(180, 161, 199, 0.545);
+}
+
+
+
+
+.u1{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.u2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}
+.u3{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+
+.u4{
+    font-size: larger;
+    text-align: center;
+}
+.u5{
+    font-size: medium;
+    text-align: center;
+}
+.u6{
+    font-size: small;
+    text-align: center;
+}
+
+
+.u7{
+    color: rgb(39, 8, 105);
+    text-align: center;
+}
+.u8{
+    color: rgb(78, 4, 4);
+    text-align: center;
+}
+.u9{
+    color: rgb(111, 111, 27);
+    text-align: center;
+}
+
+
+.u10{
+    font-weight: bold;
+    text-align: center;
+}
+.u11{
+   font-weight: bolder;
+   text-align: center;
+}
+.u12{
+    font-weight: lighter;
+    text-align: center;
+}
+
+
+.u13{
+    text-align: center;
+    color: red;
+}
+.u14{
+    text-align: left;
+    color: red;
+}
+.u15{
+    text-align: right;
+    color: red\;
+}
+
+
+.u16{
+    line-height: 100px;
+    text-align: center;
+}
+.u17{
+    line-height: 150px;
+    text-align: center;
+}
+.u18{
+    line-height: 50px;
+    text-align: center;
+}
+
+
+.u19{
+    letter-spacing: 100px;
+    text-align: center;
+}
+.u20{
+    word-spacing: 100px;
+    text-align: center;
+} 
+
+.u21{
+    text-decoration: line-through;
+    text-align: center;
+}
+.u22{
+    text-decoration: overline;
+    text-align: center;
+}
+.u23{
+    text-decoration: wavy;
+    text-align: center;
+}
+.u24{
+    text-decoration: underline;
+    text-align: center;
+}
+
+
+.u25{
+    font-style: italic;
+    text-align: center;
+}
+.u26{
+    font-style: initial;
+    text-align: center;
+}
+.u27{
+    font-style: oblique;
+    text-align: center;
+}
+
+
+.u28{
+    text-transform: lowercase;
+    text-align: center;
+}
+.u29{
+    text-transform: uppercase;
+    text-align: center;
+}
+.u30{
+    text-transform: initial;
+    text-align: center;
+}
+
+
+.u31{
+    text-indent: 20px;
+}
+.u32{
+    text-indent: 50px;
+}
+.u33{
+    text-indent: 100px;
+}

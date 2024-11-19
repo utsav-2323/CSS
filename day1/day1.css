@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: rgba(55, 55, 53, 0.401);
+}
+body{
+    background-color: rgba(180, 161, 199, 0.545);
+}
+
+.u1 img{
+    float: right;
+    width: 200px;
+    
+}
+.u1 h3{
+    font-size: 30px;
+}
+.u1 p{
+    color: rgb(55, 55, 53);
+}
+.u2 img{
+    float: left;
+    width: 160px;
+    height: 90px;
+}
+.u2 h3{
+    font-size: 30px;
+    text-align: right;
+}
+.u2 p{
+    color: rgb(55, 55, 53);
+    text-align: right;
+}
+.u3 img{
+    float: right;
+    width: 200px;
+    height: 110px;
+}
+.u3 h3{
+    font-size: 30px;
+}
+.u3 p{
+    color: rgb(55, 55, 53);
+}
+.u4 img{
+    float: left;
+    width: 160px;
+    height: 95px;
+}
+.u4 h3{
+    font-size: 30px;
+    text-align: right;
+}
+.u4 p{
+    color: rgb(55, 55, 53);
+    text-align: right;
+}

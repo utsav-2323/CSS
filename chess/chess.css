@@ -1,0 +1,31 @@
+h1{
+    text-align: center;
+    color: #000;
+    font-size: 50px;
+    object-fit: cover;
+}
+.chess{
+    border: 1px solid black;
+    width: 80%;
+    height: 640px;
+}
+.u1{
+    width: 10%;
+    height: 80px;
+    float: left;
+    background-color:black;
+    width: calc(100%/8);
+    color: #fff;
+    text-align: center;
+    font-size: 50px;
+}
+.u2{
+    width: 10%;
+    height: 80px;
+    float: left;
+    background-color:white;
+    width: calc(100%/8);
+    color: #000;
+    text-align: center;
+    font-size: 50px;
+}

@@ -1,0 +1,416 @@
+@media(max-width:980px)
+{
+
+    header{
+        background-size: cover;
+    }
+    .main{
+       justify-content: space-evenly;
+    }
+
+   header img{
+        background-size: cover; 
+    }
+
+    .logo{
+        flex-basis: 25%;
+        height: 100px;
+        align-items: center;
+    }
+    .logo h1{
+        font-size: 18px;
+    }
+
+    nav{
+        flex-basis: 80%;
+    }
+
+    nav ul li a{
+        font-size: 16px;
+        justify-content: space-evenly;
+    }
+
+    .text-box{
+        flex-basis: 80%;
+    }
+
+    .text-box h1 {
+        font-size: 20px;
+    }
+    
+    .text-box p{
+        font-size: 15px;
+    }
+
+    .sec{
+        /* flex-direction: column; */
+        margin-top: 100px;
+    }
+
+    .sub-sec{
+        margin-top: 30px;
+    }
+
+    .sub-about{
+        margin-top: 150px;
+    }
+
+    .about{
+        flex-wrap: wrap;  
+        height: auto;
+    }
+    .about-icon{
+        flex-basis: 40%;
+        height: auto;
+        /* border: 1px solid black; */
+        margin-top: 50px;
+    }
+
+    .car-img{
+        flex-wrap: wrap;
+        height: auto;
+    }
+
+    .sub-img{
+        flex-basis: 40%;
+        margin-top: 100px;
+        
+    }
+    .work{
+        flex-direction: column;
+        height: auto;
+        width: auto;
+    }
+
+    .sub-work{
+        height: 400px;
+        width: auto;
+    }
+
+    .sub-work h2{
+        font-size: 25px;
+    }
+
+    .sub-work p{
+        font-size: 15px;
+    }
+
+    .clients{
+        height: auto;
+        width: auto;
+       
+    }
+
+    .sub-clients{
+        height: auto;
+        width: auto;
+    }
+
+    .us{
+        flex-direction: column;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    
+    .footer{
+        margin-top: 200px;
+        height: auto;
+        width: auto;
+        /* flex-direction: column; */
+    }
+    
+    .sub-footer{
+        margin-top: 20px;
+    }
+
+
+
+
+   
+
+}
+
+
+
+
+
+
+
+@media(max-width:720px)
+{
+
+    header{
+        background-size: cover;
+    }
+    .main{
+       justify-content: space-evenly;
+    }
+
+   header img{
+        background-size: cover; 
+    }
+
+    .logo{
+        flex-basis: 25%;
+        height: 100px;
+        align-items: center;
+    }
+    .logo h1{
+        font-size: 18px;
+    }
+
+    nav{
+        flex-basis: 80%;
+    }
+
+    nav ul li a{
+        font-size: 16px;
+        justify-content: space-evenly;
+    }
+
+    .text-box{
+        flex-basis: 80%;
+    }
+
+    .text-box h1 {
+        font-size: 20px;
+    }
+    
+    .text-box p{
+        font-size: 15px;
+    }
+
+    .sec{
+        flex-direction: column;
+        margin-top: 100px;
+    }
+
+    .sub-sec{
+        margin-top: 30px;
+    }
+
+    .sub-about{
+        margin-top: 150px;
+    }
+
+    .about{
+        flex-direction: column;
+        height: auto;
+    }
+    .about-icon{
+        margin-top: 30px;
+    }
+
+     .car-img{
+        flex-direction: column;
+        height: auto;
+
+    }
+
+    .sub-img{
+        margin-top: 50px;
+    }
+    .work{
+        flex-direction: column;
+        height: auto;
+        width: auto;
+    }
+
+    .sub-work{
+        flex-direction: column;
+        height: auto;
+        width: auto;
+    }
+
+    .sub-work h2{
+        font-size: 25px;
+    }
+
+    .sub-work p{
+        font-size: 15px;
+    }
+
+    .clients{
+        flex-direction: column;
+        margin-top: 50px;
+    }
+
+    .us{
+        flex-direction: column;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .recent{
+        flex-direction: column;
+        margin-top: 400px;
+    }
+
+    .sub-rec{
+        margin-top: 300px;
+    }
+
+    .footer{
+        margin-top: 100vh;
+        height: auto;
+        width: auto;
+        flex-direction: column;
+    }
+    
+    .sub-footer{
+        margin-top: 20px;
+    }
+
+    span{
+        display: none;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:480px)
+{
+
+    header{
+        background-size: cover;
+    }
+    .main{
+       justify-content: space-evenly;
+    }
+
+   header img{
+        background-size: cover; 
+    }
+
+    .logo{
+        flex-basis: 30%;
+        height: 100px;
+        align-items: center;
+    }
+    .logo h1{
+        font-size: 16px;
+    }
+
+    nav{
+        flex-basis: 80%;
+    }
+
+    nav ul li a{
+        font-size: 14px;
+        justify-content: space-evenly;
+    }
+
+    .text-box{
+        flex-basis: 70%;
+    }
+
+    .text-box h1 {
+        font-size: 20px;
+    }
+    
+    .text-box p{
+        font-size: 15px;
+    }
+
+    .sec{
+        flex-direction: column;
+        margin-top: 100px;
+    }
+
+    .sub-sec{
+        margin-top: 30px;
+    }
+
+    .sub-about{
+        margin-top: 150px;
+    }
+
+    .about{
+        flex-direction: column;
+        height: auto;
+    }
+    .about-icon{
+        margin-top: 30px;
+    }
+
+    .car-img{
+        flex-direction: column;
+        height: auto;
+
+    }
+
+    .sub-img{
+        margin-top: 50px;
+    }
+    
+    .work{
+        flex-direction: column;
+        height: auto;
+        width: auto;
+    }
+
+    .sub-work{
+        flex-direction: column;
+        height: auto;
+        width: auto;
+    }
+
+    .sub-work h2{
+        font-size: 25px;
+    }
+
+    .sub-work p{
+        font-size: 15px;
+    }
+
+    .clients{
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .us{
+        flex-direction: column;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .sub-us h1{
+        font-size: 25px;
+    }
+
+    .recent{
+        flex-direction: column;
+        margin-top: 200px;
+    }
+
+    .sub-rec{
+        margin-top: 300px;
+    }
+
+    .footer{
+        margin-top: 100vh;
+        height: auto;
+        width: auto;
+        flex-direction: column;
+    }
+    
+    .sub-footer{
+        margin-top: 20px;
+    }
+    span{
+        display: none;
+    }
+
+
+}

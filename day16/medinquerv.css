@@ -1,0 +1,208 @@
+@media(min-width:0px) and (max-width:600px){
+
+    .nav{
+        display: flex;
+    }
+    .logo{
+        display: flex;
+    }
+    .link{
+        display: none;
+    }
+    .menu{
+        display: flex;
+        justify-content: flex-end;
+    }
+    .box1{
+        display: none;
+    }
+    .box2{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    } 
+    .box2 .j2{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+        flex-direction: column;
+        justify-content:center;
+        
+    }
+    .box2 .j2 h1{
+        color: rgb(228,174,80);
+        font-size: 120px;
+        font-weight:600 ;
+    }
+    .box2 .j2 p{
+        font-size: 30px;
+        color: white;
+        line-height: 45px;
+    }
+    .box2 .j2 button{
+        width: 200px;
+        height: 60px;
+        font-size: 25px;
+        color: #e4ae50;
+        letter-spacing: 2px;
+        border-radius: 5px;
+        background-color: transparent;
+        border: 2px solid #e4ae50;
+    }
+    .box2 .j2 button:hover{
+        color: white;
+        background-color: #e4ae50;
+        transition:1s;
+    }
+    .sec2{
+        width: 100%;
+        height: 200px;
+        display:flex;
+    }
+    .sec3{
+        display: flex;
+        flex-wrap: wrap ;
+    }
+    .sec3 .tep1{
+        width: 100%;
+        height: 900px;
+        /* border: 1px solid red; */
+        background-color: black;
+    }
+    .sec3 .tep2{
+        width: 100%;
+        height: 900px;
+        /* border: 1px solid red; */
+        background-color: black;
+    }
+    .sec3 .tep3{
+        width: 100%;
+        height: 900px;
+        /* border: 1px solid red; */
+        background-color: black;
+    }
+    .sec4{
+        width: 100%;
+        height: 300px;
+        margin-top: 1700px;
+        display:flex;
+    }
+    .sec4 h1{
+        font-size: 60px;
+        color: white; 
+    }
+    .sec4 .line{
+        width: 130px;
+        height: 2px;
+        margin-top: 20px;
+        border: 2px solid #e4ae50;
+        background-color: #e4ae50;
+    }
+    .sec5{
+        display: flex;
+        flex-direction: column;
+    }
+    .sec5 .box3{
+        width: 100%;
+        height: 100%;
+        display: flex;
+    }
+    .sec5 .box4{
+        width: 100%;
+        height: 1000px;
+        display: flex;
+    }
+    .box4 .p1{
+        width: 100%;
+        height: 45%;
+        /* border: 1px solid white; */
+    }
+    .p1 img{
+        width: 100%;
+        height: 100%;
+    }
+    .sec6{
+        height: 2100px;
+        display: flex;
+        flex-direction: column;
+    }
+    .box6{
+        margin-top:250px;
+        width: 100%;
+        height: 750px;
+    }
+    .box6 img{
+        width: 100%;
+        height: 750px;
+    }
+    .box5{
+        width: 100%;
+        height: 100%;
+        /* border: 1px solid white; */
+        display: flex;
+        flex-direction: column;
+        padding-right: 100px;
+        /* justify-content: center; */
+    }
+    .sec7{
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+    }
+    .sec7 .f1{
+        width: 100%;
+        height: 900px;
+        border: 1px solid white;
+        padding-left: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+    .sec7 .f2{
+        width: 100%;
+        height: 600px;
+        border: 1px solid white;
+        padding-left: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+    .f2 .sub{
+        width: 95%;
+        height: 90px;
+        border: 1px solid white;
+        border-radius: 5px;
+        display: flex;
+        flex-direction: row;
+    }
+    .sub input{
+        width: 60%;
+        color: white;
+        font-size: 25px;
+        background: none;
+        border: none;
+        border-radius: 5px;
+    }
+    .sub button{
+        width: 40%;
+        height: 90px;
+        font-size: 25px;
+        color: #e4ae50;
+        letter-spacing: 2px;
+        border-radius: 5px;
+        color: white;
+        background-color: #e4ae50;
+        border: 2px solid #e4ae50;
+    }
+    .sub button:hover{
+        color: white;
+        background-color: transparent;
+        transition:ease-in 0.2s;
+    }
+    .sec7 .f3{
+        width: 100%;
+        height: 900px;
+        border: 1px solid white;
+        padding-left: 30px;
+        display: flex;
+        flex-direction: column;
+    }
+}

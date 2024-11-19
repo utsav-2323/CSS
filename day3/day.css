@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    color: black;
+    background-color: rgb(82, 170, 189);
+    font-family: 'Young Serif', serif;
+}
+.u1{
+    font-family: 'AR One Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    color: rgb(45, 221, 115);
+    background-color: rgb(37, 58, 121);
+}
+.u2{
+    font-family: 'Mukta', sans-serif;
+    color: white;
+    background-color:rgb(82, 170, 189);
+    font-size: large;
+    font-weight: 900;
+}
+.u3{
+    text-align: center;
+}
+.u3 img{
+    width: 100%;
+    height: 900px;
+}
